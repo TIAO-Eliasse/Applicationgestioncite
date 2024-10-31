@@ -22,10 +22,11 @@ st.markdown("""
     #st.session_state['selected_person'] = None
 
 # Membres du Bloc A
-membres_blocA = ["NIKIEMA David","Dah","TIAO Eliasse" ,"NATAMA Junior"]
+membres_blocA = ["NATAMA Junior","TRAORE Yohane","KONE Ayouba","TIAO Eliasse","SOME Renaud","SOME Pascal","Dah","NIKIEMA David","TRAORE Ouhabou"]
+
 
 # Définir les dates de début et de fin
-start_date = datetime.date(2024, 10, 19)
+start_date = datetime.date(2024, 10, 22)
 end_date = datetime.date(2025, 7, 30)
 
 # Initialiser une liste pour stocker les dimanches
