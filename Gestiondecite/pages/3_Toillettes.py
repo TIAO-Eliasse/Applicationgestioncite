@@ -44,7 +44,7 @@ sundays_count = {}
 i = 0
 for elt in sundays:
     sundays_count[elt] = membres_blocA[i]
-    if i < 3:
+    if i < 8:
         i += 1
     else:
         i = 0
